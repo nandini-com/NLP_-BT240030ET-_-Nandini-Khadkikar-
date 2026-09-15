@@ -2,11 +2,11 @@
 
 ## Student Details
 
-**Name:**Nandini Khadkikar
-**Roll No / BT ID:**BT240030ET
-**Branch:** Electronics and Telecommunication Engineering
-**Semester:** V Semester
-**Course:** Natural Language Processing (BT240030ET)
+Name:Nandini Khadkikar
+Roll No / BT ID:BT240030ET
+Branch:Electronics and Telecommunication Engineering   
+Semester:V Semester
+Course:Natural Language Processing (BT240030ET)
 
 ---
 
