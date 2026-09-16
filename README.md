@@ -1,4 +1,4 @@
-# NLP Sentiment Analyzer – Text Sentiment Classification
+Tea Corner Website
 
 ## Student Details
 
